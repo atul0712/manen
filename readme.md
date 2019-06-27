@@ -32,6 +32,7 @@ Running `mvn compile` produces a class file:
     murphy:my-app pdurbin$ mvn compile --quiet
     murphy:my-app pdurbin$ ack -a -f
     pom.xml
+    na khona hi hai
     src/main/java/com/mycompany/app/App.java
     src/test/java/com/mycompany/app/AppTest.java
     target/classes/com/mycompany/app/App.class
